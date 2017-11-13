@@ -1,5 +1,5 @@
 # Summary
-A ride-sharing company is interesting in predicting rider retention. Our team performed exploratory data analysis on the data set and designed model features and implemented a logistic classification and random forest classification models to predict user churn.
+This code is for a logistic classifier, random forest classifier, and data processing file that was coded in 6 hours and used to identify key features in predicting user churn for a ride-sharing company based on a dataset from a cohort of users. Our team was able to identify that luxury car usage in the first 30 days, smartphone type, and city were the most predictive features of user churn in our random forest model.
 
 # Methodology
 
